@@ -1,0 +1,25 @@
+--For single producer & Consumer  and kalfka  install
+----------------------------------------------------
+http://kafka.praveendeshmane.co.in/kafka/kafka-java-api.jsp
+https://howtoprogram.xyz/2016/05/29/create-multi-threaded-apache-kafka-consumer/
+
+----------------
+
+--Multiple consumers with their own threads (Model #1)
+--Single consumer, multiple worker processing threads (Model #2)
+    
+https://howtoprogram.xyz/2016/05/29/create-multi-threaded-apache-kafka-consumer/
+https://github.com/howtoprogram/Kafka-MultiThread-Java-Example
+
+
+
+
+
+
+
+
+
+
+
+
+
